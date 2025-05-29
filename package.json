@@ -1,0 +1,23 @@
+{
+  "name": "FIGBA PF",
+  "version": "1.0.0",
+  "description": "Plataforma de Gestión Financiera Personal",
+  "main": "express.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schernit/grupo_7_productosMasivos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schernit/grupo_7_productosMasivos/issues"
+  },
+  "homepage": "https://github.com/schernit/grupo_7_productosMasivos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
